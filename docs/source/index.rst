@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+   DCMTK_DicomTags_Edit_Note
